@@ -50,7 +50,8 @@ https://github.com/AngelF172004/juegoAdivinanzamejorado
 
 
 Enlace al Microsoft Planner:
-A
+https://planner.cloud.microsoft/f94bf4d9-8097-4794-adf6-a5466ca28563/Home/PlanViews/VkHTgOEJD0u-ZrRykWy26WQAC_Vj?Type=PlanLink&Channel=Link&CreatedTime=638793137463910000
+
 
 
 
